@@ -55,11 +55,7 @@ input{
 .op2{
     background-color: rgb(141, 141, 142);
 }
-/* Adding css in equal button for good representation of button*/
-.equal,.C{
-    padding: 23px 65px;
-    border-radius: 20px;
-}
+
 
 .op{
     background-color: orange;
